@@ -28,6 +28,7 @@ I turn clinical and operational healthcare data into insights that help care tea
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **EHR Systems:** Epic (EpicCare, MyChart, Clarity, Caboodle) · Oracle Health (Cerner) Millennium & PowerChart
+
 **Healthcare Domain:** HIPAA & PHI protection · Healthcare compliance · Behavioral health · Medicaid & Medicare · Quality measures
 
 ---
@@ -42,3 +43,25 @@ I turn clinical and operational healthcare data into insights that help care tea
 | **EHR Implementation Project Toolkit** | Sample project plan, WBS, RAID log, and UAT test plan for an EHR rollout | Excel, MS Project |
 
 *All projects use public or synthetic data (such as Synthea and CMS datasets). No real patient information is used.*
+
+---
+
+## 🎓 Certifications
+
+- Project Management Professional (**PMP**) — PMI
+- Certified ScrumMaster (**CSM**) — Scrum Alliance
+- Certified SAFe 6 Scrum Master (**SSM**)
+- Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
+- SQL Certification — Infosys
+- Healthcare Compliance Training Series — HHS Office of Inspector General
+- Practical Application of Generative AI for Project Managers — PMI
+- Six Sigma Green Belt (CSSGB) — ASQ *(in progress)*
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-kariuki-195a843a6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kariukialice316@gmail.com)
+
+I'm open to opportunities in **healthcare IT, EHR systems analysis, business analysis, and healthcare project management**.
